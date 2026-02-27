@@ -1,5 +1,6 @@
 # 💫 About Me:
-🙋‍♂️ Hey there, I am Ved, a 15-year-old developer (student). <br>🎯 Currently, I am working on small projects or studying my syllabus.<br>💖 I mainly develop programs that help students in their studies. ✔ Looking for Internships and Work in big and promising companies.
+🙋‍♂️ Hey there, I am Ved, a 15-year-old developer (student). <br>🎯 Currently, I am working on small projects or studying my syllabus.<br>💖 I mainly develop programs that help students in their studies. 
+✔ Looking for Internships and Work in big and promising companies.
 
 
 ## 🌐 Socials:
