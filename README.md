@@ -2,6 +2,16 @@
 🙋‍♂️ Hey there, I am Ved, a 15-year-old developer (student). <br>🎯 Currently, I am working on small projects or studying my syllabus.<br>💖 I mainly develop programs that help students in their studies. 
 ✔ Looking for Internships and Work in big and promising companies.
 
+## 👨‍💻 PROJECTS
+📍 VMPYR AI
+  An Web Based Application that helps students reach their study goals, it allows users to enter details of their exam date, board, and subject, and AI automatically fetches details
+  regarding it. The app is mostly focused and made for CBSE / ICSE and State Board students settled in India. The code and details of the project are in its repository for inspiration
+  and use.
+
+
+  
+More projects are in my Resume ( https://docs.google.com/document/d/13nPzQlbveXIcDfKGxuXiknnhrw091_m01uFcGYhmmwM/edit?usp=sharing )  
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantsharmacoolboy@gmail.com) 
@@ -16,4 +26,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Anonymous12-34-5&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
